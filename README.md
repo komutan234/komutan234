@@ -1,5 +1,25 @@
 <h1 align="center">Hi 👋, I'm Turgut</h1>
-<h3 align="center">Hi I am Turgut Akin I am a small person with big dreams I am interested in software I am currently studying in high school I am also the founder of 5 companies and my goal is to graduate in 2025 to become a computer engineer and to be able to do big things in a short time.</h3>
+<h3 align="center">Hi I am Turgut Akin.</h3>
+<p>
+  I’m an 18-year-old young person with big dreams. I graduated at the top of my class from the Information Technologies Department of a vocational high school in Kastamonu. Currently, I am studying Computer Programming at Kastamonu University. I have been deeply interested in software development since I was 13 years old and have gained experience in many programming languages.
+
+At the age of 14, I founded a community of 8,500 members and achieved significant accomplishments on the internet. I discovered data breaches in large companies such as Netflix and reported them, helping these organizations identify and fix security vulnerabilities. As a result of these efforts, I received appreciation messages and collaborated with various institutions of the Republic of Turkey.
+
+Additionally, at the age of 14, I began launching major initiatives. I actively participate in many technology events across Turkey, have been a volunteer at the T3 Foundation for two years, and have worked on projects at Teknofest. I have visited three countries and completed a three-week internship in Europe focused on telecommunication technologies and NATO military technology. At the end of this internship, I was awarded a Europass certificate.
+
+I currently own three companies:
+
+A news agency
+An organization conducting software and scientific experiments
+A company involved in trade
+
+Despite financial challenges, I continue to develop my companies and carry out major international scientific and software projects. I actively participate in events organized by institutions such as Google Developer Clubs and BTK Academy in Turkey, and I receive invitations to events from all around the world.
+
+My future goal is to study Computer Engineering in Istanbul and pursue my Ph.D. in the United States. Afterwards, I aim to carry out strong projects within my companies and achieve world-first innovations. As a hobby, I have a deep appreciation for art and spend time engaging with it. I am also writing my life story as a novel.
+
+Sincerely,
+Turgut
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komutan234&label=Profile%20views&color=0e75b6&style=flat" alt="komutan234" /> </p>
 
