@@ -21,13 +21,9 @@ Sincerely,
 Turgut
 </p>
 <p align="center">
+<p align="center">
   <a href="https://github.com/sponsors/komutan234" target="_blank">
-    <img 
-      src="https://svg-banners.vercel.app/api?type=glitch&text1=💖%20Sponsor%20Me!&text2=komutan234" 
-      alt="Sponsor komutan234"
-      width="300"
-      style="border-radius: 12px; backdrop-filter: blur(12px); box-shadow: 0 0 20px rgba(255,105,180,0.4);"
-    />
+    <img src="https://raw.githubusercontent.com/komutan234/assets/main/luxury-glass-sponsor.svg" alt="Sponsor komutan234" width="300">
   </a>
 </p>
 
