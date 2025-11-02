@@ -22,9 +22,10 @@ Turgut
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/komutan234" target="_blank">
-    <img src="https://img.shields.io/badge/SUPPORT%20MY%20WORK-00FFFF?style=for-the-badge&logo=githubsponsors&logoColor=black&labelColor=001f3f" alt="Sponsor komutan234" />
+    <img src="https://raw.githubusercontent.com/komutan234/assets/main/sponsor-button.svg" alt="Sponsor komutan234" width="220" />
   </a>
 </p>
+
 
 
 
