@@ -21,8 +21,8 @@ Sincerely,
 Turgut
 </p>
 <p align="center">
-  <a href="https://github.com/sponsors/komutan234">
-    <img src="https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge" alt="Sponsor komutan234" />
+  <a href="https://github.com/sponsors/komutan234" target="_blank">
+    <img src="https://img.shields.io/badge/💖%20Become%20a%20Sponsor-%23ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=2d2d2d" alt="Sponsor komutan234" />
   </a>
 </p>
 
