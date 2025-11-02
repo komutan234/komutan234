@@ -21,11 +21,40 @@ Sincerely,
 Turgut
 </p>
 <p align="center">
-<p align="center">
   <a href="https://github.com/sponsors/komutan234" target="_blank">
-    <img src="https://raw.githubusercontent.com/komutan234/assets/main/luxury-glass-sponsor.svg" alt="Sponsor komutan234" width="300">
+    <svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="luxGradient" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#ffb347"/>
+          <stop offset="50%" stop-color="#ff69b4"/>
+          <stop offset="100%" stop-color="#ffd700"/>
+        </linearGradient>
+        <filter id="blurGlass" x="-10%" y="-10%" width="120%" height="120%">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
+          <feColorMatrix in="blur" type="matrix"
+            values="1 0 0 0 0
+                    0 1 0 0 0
+                    0 0 1 0 0
+                    0 0 0 0.3 0"/>
+        </filter>
+      </defs>
+
+      <rect width="100%" height="100%" rx="18" ry="18" fill="rgba(255,255,255,0.08)" filter="url(#blurGlass)" stroke="url(#luxGradient)" stroke-width="2"/>
+      
+      <g>
+        <text x="150" y="50" font-family="Segoe UI, sans-serif" font-size="20" fill="url(#luxGradient)" text-anchor="middle" font-weight="600">
+          💖 BECOME A SPONSOR
+        </text>
+      </g>
+
+      <circle id="pulse" cx="150" cy="40" r="28" fill="none" stroke="url(#luxGradient)" stroke-width="2" opacity="0">
+        <animate attributeName="r" from="28" to="50" dur="1.8s" begin="0s" repeatCount="indefinite" />
+        <animate attributeName="opacity" from="0.6" to="0" dur="1.8s" begin="0s" repeatCount="indefinite" />
+      </circle>
+    </svg>
   </a>
 </p>
+
 
 
 
