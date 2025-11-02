@@ -20,6 +20,7 @@ My future goal is to study Computer Engineering in Istanbul and pursue my Ph.D. 
 Sincerely,
 Turgut
 </p>
+[![Sponsor](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/KULLANICI_ADIN)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komutan234&label=Profile%20views&color=0e75b6&style=flat" alt="komutan234" /> </p>
 
