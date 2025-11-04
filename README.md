@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Turgut</h1>  
-[![committers.top badge](https://user-badge.committers.top/turkey/komutan234.svg)]
+[![committers.top badge](https://user-badge.committers.top/turkey_private/USERNAME.svg)](https://user-badge.committers.top/turkey_private/USERNAME)
 <h3 align="center">Hi I am Turgut Akin.</h3>
 <p>
   I’m an 18-year-old young person with big dreams. I graduated at the top of my class from the Information Technologies Department of a vocational high school in Kastamonu. Currently, I am studying Computer Programming at Kastamonu University. I have been deeply interested in software development since I was 13 years old and have gained experience in many programming languages.
