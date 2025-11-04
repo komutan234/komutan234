@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Turgut</h1>  
 <p align="center">
-  <a href="https://user-badge.committers.top/turkey/komutan234">
-    <img src="https://user-badge.committers.top/turkey/komutan234.svg" alt="committers.top badge">
+  <a href="https://user-badge.committers.top/turkey_private/komutan234">
+    <img src="https://user-badge.committers.top/turkey_private/komutan234.svg" alt="committers.top badge">
   </a>
 </p>
 
