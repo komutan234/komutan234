@@ -6,7 +6,7 @@
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=komutan234&label=Profile%20Views&color=0e75b6&style=flat)
 
-*Computer Programming student · Security Researcher · Entrepreneur*
+*Computer Programming student · Entrepreneur · Software Architect · Full-Stack Developer *
 
 ---
 
