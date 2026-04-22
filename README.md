@@ -27,20 +27,20 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Hakkımda
 
-I’m an 18-year-old student, entrepreneur, and developer based in Kastamonu, Turkey. Currently studying Computer Programming at Kastamonu University, I graduated at the top of my class from my vocational high school and have been deeply involved in software engineering since age 13.
+Ben Turgut Akın, 18 yaşında, büyük hayalleri olan bir yazılımcı ve girişimciyim. Kastamonu Üniversitesi'nde Bilgisayar Programcılığı okuyorum. 13 yaşımdan beri yazılımla iç içeyim ve 14 yaşımda Netflix gibi büyük şirketlerin veri açıklarını raporlayarak güvenlik ekiplerine destek oldum.
 
-- 🏢 **Entrepreneurship:** Founder of three companies (including Akınax Industries), operating across software research, news, and global trade.
-- 🔒 **Cybersecurity:** Discovered and reported data breaches in major companies like Netflix, collaborating with Turkish government institutions to identify and patch security vulnerabilities.
-- 🌍 **Global Experience:** Completed a 3-week Europass-certified internship in Europe focusing on telecommunications and NATO military technology. Proud volunteer at the T3 Foundation and active Teknofest participant.
-- 💻 **Open Source & Tech:** Top-ranked GitHub contributor building large-scale software architecture, AI models, and machine learning projects.
-- 🎯 **Future Goals:** Pursuing Computer Engineering in Istanbul, followed by a Ph.D. in the United States to drive world-first technological innovations.
-- 🎨 **Beyond the Code:** Deeply appreciative of visual arts, a car enthusiast, and currently writing my life story as a novel.
+- 🏢 **Girişimcilik:** Şu anda haber ajansı, yazılım/bilim laboratuvarı ve ticaret alanlarında faaliyet gösteren üç şirketin sahibiyim (Akınax Industries dahil).
+- 🔒 **Siber Güvenlik:** Netflix gibi platformlardaki veri açıklarını tespit edip raporlayarak, Türkiye Cumhuriyeti kurumlarıyla işbirliği içinde güvenlik açıklarının giderilmesine katkı sağladım.
+- 🌍 **Global Deneyim:** Avrupa'da telekomünikasyon ve NATO askeri teknolojileri üzerine 3 haftalık Europass sertifikalı staj yaptım. T3 Vakfı gönüllüsü ve Teknofest katılımcısıyım.
+- 💻 **Açık Kaynak & Teknoloji:** GitHub'da üst sıralarda yer alan bir geliştirici olarak yapay zeka, makine öğrenimi ve büyük ölçekli yazılım mimarileri üzerine projeler geliştiriyorum.
+- 🎯 **Gelecek Hedefleri:** İstanbul'da Bilgisayar Mühendisliği eğitimi aldıktan sonra ABD'de doktora yapmayı ve şirketlerimle dünya çapında yenilikçi projelere imza atmayı hedefliyorum.
+- 🎨 **Diğer İlgi Alanları:** Sanata ilgi duyuyorum, otomobil tutkunuyum ve hayat hikayemi bir roman olarak kaleme alıyorum.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Diller ve Araçlar
 
 <p align="center">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
@@ -76,7 +76,7 @@ I’m an 18-year-old student, entrepreneur, and developer based in Kastamonu, Tu
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub İstatistikleri
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=komutan234&show_icons=true&locale=en&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
@@ -89,7 +89,7 @@ I’m an 18-year-old student, entrepreneur, and developer based in Kastamonu, Tu
 
 ---
 
-### ☕ Support My Work
+### ☕ Bana Destek Ol
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/akinturguta">
