@@ -1,12 +1,22 @@
 <div align="center">
 
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇬🇧%20English-2ea44f?style=for-the-badge" alt="English"/>
+  </a>
+  &nbsp;
+  <a href="./README_TR.md">
+    <img src="https://img.shields.io/badge/🇹🇷%20Türkçe-30363d?style=for-the-badge" alt="Türkçe"/>
+  </a>
+</p>
+
 # Turgut Akın
 
 [![committers.top badge](https://user-badge.committers.top/turkey_private/komutan234.svg)](https://user-badge.committers.top/turkey_private/komutan234)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=komutan234&label=Profile%20Views&color=0e75b6&style=flat)
 
-*Computer Programming student · Entrepreneur · Software Architect · Full-Stack Developer *
+*Computer Programming student · Entrepreneur · Software Architect · Full-Stack Developer*
 
 ---
 
@@ -49,6 +59,7 @@ My goal is to study **Computer Engineering in Istanbul** and pursue a **Ph.D. in
 ### 🛠️ Languages & Tools
 
 #### Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -64,6 +75,7 @@ My goal is to study **Computer Engineering in Istanbul** and pursue a **Ph.D. in
 </p>
 
 #### Web & Frameworks
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -75,6 +87,7 @@ My goal is to study **Computer Engineering in Istanbul** and pursue a **Ph.D. in
 </p>
 
 #### Cloud & Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
@@ -86,6 +99,7 @@ My goal is to study **Computer Engineering in Istanbul** and pursue a **Ph.D. in
 </p>
 
 #### Tools & Platforms
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -99,6 +113,7 @@ My goal is to study **Computer Engineering in Istanbul** and pursue a **Ph.D. in
 </p>
 
 #### Design
+
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
